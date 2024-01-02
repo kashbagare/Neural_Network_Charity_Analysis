@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-The purpose of this project was to use our knowledge of Machine Learning, Neural Networks and Python to predict whether applicants will be successful if funded by Alphabet Soup.
+The purpose of this project was to use knowledge of Machine Learning, Neural Networks and Python to predict whether applicants will be successful if funded by Alphabet Soup.
 
 ## Results 
 
